@@ -28,4 +28,4 @@ Bem-vindo ao repositório da disciplina de Estruturas de Dados 2 (AEDs 2). Este 
   
 1. Clone o repositório:
    ```bash
-   git clone <URL-do-repositório>
+   git clone <https://github.com/RenanCatini/AEDs_Teorica/tree/main>
