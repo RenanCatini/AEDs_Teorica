@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/renan/OneDrive/Documentos/Trabalhos VSCode/C/AEDs_Teorica/Aulas",
-      "program": "c:/Users/renan/OneDrive/Documentos/Trabalhos VSCode/C/AEDs_Teorica/Aulas/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
