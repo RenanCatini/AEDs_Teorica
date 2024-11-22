@@ -29,12 +29,6 @@ void swap(int *p1, int *p2){
 }
 
 int inserir_heap(int valor, heap arvore){
-    //Comparação caso esteja cheia
-    if(tam_atual == TAM){
-        puts("Arvore cheia!");
-        return -1;
-    }
-
     //Adicionar o valor
     tam_atual++;
     int i = tam_atual-1;
